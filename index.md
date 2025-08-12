@@ -1,3 +1,8 @@
+---
+layout: default
+title: ""
+---
+
 # Hello, I'm André Christensen
 
 Welcome to my portfolio!  
