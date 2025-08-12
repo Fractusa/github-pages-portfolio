@@ -1,7 +1,7 @@
-# Hi, I'm [Your Name]
+# Hello, I'm André Christensen
 
 Welcome to my portfolio!  
-I'm a **[Your Profession or Role]** passionate about **[Your Main Skills or Interests]**.
+I'm a **Computer Science Student**.
 
 ---
 
@@ -14,9 +14,9 @@ I'm a **[Your Profession or Role]** passionate about **[Your Main Skills or Inte
 ---
 
 ## Skills
-- **Languages:** C#, JavaScript, Python
-- **Frameworks:** Blazor, .NET, React
-- **Tools:** Git, Docker, VS Code
+- **Languages:** C#, HTML
+- **Frameworks:** Blazor, .NET
+- **Tools:** Git, Visual Studio
 
 ---
 
