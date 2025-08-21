@@ -1,6 +1,6 @@
 # Hello, I'm André Christensen
 
-Welcome to my portfolio!  
+Welcome to my webpage!
 I'm a **Computer Science Student**.
 
 ---
@@ -16,7 +16,7 @@ I'm a **Computer Science Student**.
 ## Skills
 - **Languages:** C#, HTML
 - **Frameworks:** Blazor, .NET
-- **Tools:** Git, Visual Studio
+- **Tools:** Git, Visual Studio, VS Code
 
 ---
 
