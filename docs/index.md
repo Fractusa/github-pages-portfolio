@@ -28,8 +28,10 @@ A Blazor Server app that fetches flight and hotel data from a custom ASP.NET Cor
 
 ---
 
-## Portfolio Preview
-![Screenshot](images/portfolio-screenshot.png)
+## Portfolio - Project Game
+### Uge 1
+Fokus på opstart, brainstorming af game engines til spiludvikling hertil er Unity valgt. 
+Derudover brainstorming over features og idéer, som spillet skal indeholde.
 
 ---
 
