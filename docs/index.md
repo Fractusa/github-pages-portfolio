@@ -21,9 +21,10 @@ I'm a **Computer Science Student**.
 ---
 
 ## Portfolio - Project Game
-### Uge 1
-Fokus på opstart, brainstorming af game engines til spiludvikling hertil er Unity valgt. 
-Derudover brainstorming over features og idéer, som spillet skal indeholde.
+### Week 1 & 2
+Researching different Game Engines, for potential use in game programming; Unity chosen. Brainstorming features and ideas for game content, as well as researching courses for Unity for learning.
+
+### Week 3
 
 ---
 
