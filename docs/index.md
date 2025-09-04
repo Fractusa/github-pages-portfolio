@@ -22,10 +22,13 @@ I'm a **Computer Science Student**.
 ---
 
 ## Portfolio - Project Game 2025
-### Week 1 & 2 (14-25 October)
+### Week 1 & 2 (14-24 August)
 Researching different Game Engines, for potential use in game programming; Unity chosen. Brainstorming features and ideas for game content, as well as researching courses for Unity for learning.
 
-### Week 3
+### Week 3 & 4 (25-31 August & 1-7 September)
+Following Unity Courses to learn about Unity functionality. Started development on Project Game, adding basic tilemap functionality and PlayerController script with Movement implemented using Unity's InputAction.
+
+### Week 5 (8-14 September)
 
 ---
 
