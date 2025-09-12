@@ -29,6 +29,13 @@ Researching different Game Engines, for potential use in game programming; Unity
 Following Unity Courses to learn about Unity functionality. Started development on Project Game, adding basic tilemap functionality and PlayerController script with Movement implemented using Unity's InputAction.
 
 ### Week 5 (8-14 September)
+Worked with Unity Animations, adding a running animation to the Player. Added attack functionality to the Player, enabling it to be able to shoot Projectiles. Added different Collectibles that enemies drop on death, namely experience (always) and health (random).
+Started work on an Experience System allowing the player to gain experience from killing enemies, and later through this give the ability to choose new abilities and/or stat increases. 
+Finally created basic functionality towards adding new abilities and effects. Abilities being full fledged with multiple effects eg. Fireball (Effects: Projectile, Burning, Damage etc.) while effects are smaller blocks that abiltiies are built from.
+
+A few difficulties making scripts work together correctly, sometimes not using the same instance of a script eg. PlayerController & PlayerHealth scripts not using the same Stats for the Player. Otherwise mostly basic functionality for now.
+
+### Week 6 (15-21 September)
 
 ---
 
