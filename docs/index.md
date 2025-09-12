@@ -37,6 +37,7 @@ A few difficulties making scripts work together correctly, sometimes not using t
 
 ### Week 6 (15-21 September)
 
+
 ---
 
 ## Past Projects
