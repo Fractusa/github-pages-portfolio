@@ -39,6 +39,13 @@ A few difficulties making scripts work together correctly, sometimes not using t
 Fixed Performance Issues when too many enemies are present at the same time. Seemed to be a Physics issue, where colliders between enemies continued to interact between each other, causing massive lag spikes. 
 Solution was to add an Enemy Layer and edit Layer Collision between enemies to disabled, effectively ignoring Physics between Enemies. This might be a temporary solution, but resolved the issues for the moment. 
 
+Created a new Ability system, where multiple effects eg. Projectile Cast, Burn, AoE, Scattershot can be attached, giving the player the opportunity to create unique abilities. 
+
+So far only a Simple Projectile ability which autofires towards closest enemy,
+has been implemented. 
+
+The idea is to create a bunch of different effects and have the player craft their own abilities throughout the run. 
+
 ---
 
 ## Past Projects
