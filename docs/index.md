@@ -36,7 +36,8 @@ Finally created basic functionality towards adding new abilities and effects. Ab
 A few difficulties making scripts work together correctly, sometimes not using the same instance of a script eg. PlayerController & PlayerHealth scripts not using the same Stats for the Player. Otherwise mostly basic functionality for now.
 
 ### Week 6 (15-21 September)
-
+Fixed Performance Issues when too many enemies are present at the same time. Seemed to be a Physics issue, where colliders between enemies continued to interact between each other, causing massive lag spikes. 
+Solution was to add an Enemy Layer and edit Layer Collision between enemies to disabled, effectively ignoring Physics between Enemies. This might be a temporary solution, but resolved the issues for the moment. 
 
 ---
 
