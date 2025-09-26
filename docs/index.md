@@ -46,7 +46,9 @@ The idea is to create a bunch of different effects and have the player craft the
 Finally time has been spent cleaning up a bit of the code, fixing minor bugs, writing comments as well as looking at asset creation using Aseprite. 
 
 ### Week 7 (22-28 September)
-
+A bit slower week, but added functionality for upgrading abilities so far only for 1 effect, but is easily expanded on as effects are added.
+Otherwise have been finalizing custom assets for the game using Aseprite - 3 different projectiles as well as 4 different collectible drops.
+Started work on creating a player character, find it hard to work in detail as well as creating animations for running etc. Created a very simple character for now, can be expanded on later.
 
 ---
 
