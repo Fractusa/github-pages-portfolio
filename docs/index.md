@@ -61,6 +61,6 @@ A Blazor Server app that fetches flight and hotel data from a custom ASP.NET Cor
 ---
 
 ## Contact
-- **Email:** your@email.com
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+- **Email:** ehris12@hotmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/andr%C3%A9christensen/)
+- **GitHub:** [GitHub](https://github.com/Fractusa)
