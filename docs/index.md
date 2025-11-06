@@ -50,6 +50,13 @@ A bit slower week, but added functionality for upgrading abilities so far only f
 Otherwise have been finalizing custom assets for the game using Aseprite - 3 different projectiles as well as 4 different collectible drops.
 Started work on creating a player character, find it hard to work in detail as well as creating animations for running etc. Created a very simple character for now, can be expanded on later.
 
+### Update 6
+Finding trouble using the Ability system, since it's based on Scriptable Objects, I have to pass through ability data such as Pierces, Explosion Radius etc. to every ability, in order to be able to upgrade this.
+Scriptable Objects however still wins in terms of flexibility; they can be attached to multiple characters if necessary and/or reused for enemy abilities.
+
+An alternative would be to use Mono Behaviours, where the script is simply attached to the GameObject in our game it would be the Player. Where all ability logic lies within the script for each ability, albeit
+I am unaware about the possibility to add new abilities during runtime to the Player through this. The alternative could prove easier to use, especially for the size of our game, losing the extra potentially unnecessary complexity.
+
 ---
 
 ## Past Projects
