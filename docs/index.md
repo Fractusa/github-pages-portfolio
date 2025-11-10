@@ -67,12 +67,6 @@ Research for this has begun, and implementation will begin in the following days
 
 ---
 
-## Past Projects
-### ✈ Flight & Hotel Search App
-[🔗 View Project](https://yourusername.github.io/flight-hotel-app)  
-A Blazor Server app that fetches flight and hotel data from a custom ASP.NET Core Web API.  
-**Tech:** C#, .NET, Blazor, REST API
-
 ---
 
 ## Contact
