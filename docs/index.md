@@ -62,6 +62,7 @@ Started work on implementing a backend for the game, herein I'd like to look at:
 * Player accounts to track our roguelite elements of a currency earned throughout the runs.
 * Leaderboard where either a score is submitted when a run ends and/or enemies killed is submitted - ideally viewable through the game otherwise through a webapp.
 * Stats tracking wherein stats such as time played, enemies killed and the sorts are tracked and added to a total number, to see how active the game is.
+
 Research for this has begun, and implementation will begin in the following days. 
 
 ---
