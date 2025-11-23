@@ -65,6 +65,11 @@ Started work on implementing a backend for the game, herein I'd like to look at:
 
 Research for this has begun, and implementation will begin in the following days. 
 
+### Update 8
+Added a new ability: Spread Shot, shooting multiple projectiles in a cone, also having attached a custom-made asset for the projectile prefab, difficulty having it display the full detail as expected, but is not an issue for the situation.
+Moreover have implemented the GraphQL API backend, and should be ready for implementation and use in Unity, coming soon. Not expecting the API to be displayable however, due to timeconstraints and the need for UI to be implemented by another teammember, but is fully functional 
+and viewable either through the browser using the API address or Postman. Only basic Queries and Mutations added for the leaderboards, albeit nothing is final.
+
 ---
 
 ---
