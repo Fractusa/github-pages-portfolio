@@ -70,6 +70,10 @@ Added a new ability: Spread Shot, shooting multiple projectiles in a cone, also 
 Moreover have implemented the GraphQL API backend, and should be ready for implementation and use in Unity, coming soon. Not expecting the API to be displayable however, due to timeconstraints and the need for UI to be implemented by another teammember, but is fully functional 
 and viewable either through the browser using the API address or Postman. Only basic Queries and Mutations added for the leaderboards, albeit nothing is final.
 
+### Update 9
+Worked on creating a UI element for Leaderboards, you can now utilize the Leaderboards button in the MainMenu scene, which pulls from my GraphQL API to populate a list of HighScores in descending order. Also added custom projectiles that I've made earlier to the game, 
+which should now be in use.
+
 ---
 
 ---
